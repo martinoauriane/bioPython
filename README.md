@@ -1,6 +1,10 @@
 ## Bioinformatics
 
-Bioinformatics is a recent scientific field that emerged in the 1990s at the interface between biology, computer science, mathematics and physics. It is defined as the application of tools of computation and analysis to the capture and interpretation of biological data.
+Bioinformatics is a recent scientific field that emerged in the 1990s at the interface between biology, computer science, mathematics and physics. It is defined as the application of tools of computation and analysis to the capture and interpretation of biological data. It involves tracking, analyzing and storing biological data to help solve big health challenges.
+
+One of the most common applications of bioinformatics, for instance, is in the "omics" field like genomics, which seeks to study, sequence and map the genetic information of organisms ranging from human beings to bacteria.
+
+Bioinformatics deploys innovative uses of data science, statistics and quantitative methods to the areas of medicine and biology in order to solve big human and public health challenges.
 
 Bioinformatics is essential for management of data in modern biology and medicine. It's a pretty recent branch of biology that encompasses the use of algebraic, analytic, and computing approaches to the processing and interpretation of biological information.
 
@@ -11,7 +15,15 @@ With an ever-increasing need for constant input from bioinformatic experts, most
 
 The escalating amount of data from the genome projects has necessitated computer databases that feature rapid assimilation, usable formats and algorithm software programs for efficient management of biological data.
 
-Because of the diverse nature of emerging data, no single comprehensive database exists for accessing all this information. However, a growing number of databases that contain helpful information for clinicians and researchers are available.
+Between the 1980s and early 2000s, huge strides were made in the Human Genome Project and other genome mapping projects. As these projects sprung up around the world, researchers started to grapple with the massive amounts of valuable and sensitive data -- for example, DNA sequencing data -- that needed to be stored, processed, securely shared, and built upon as a medical research community. Advanced computational tools and processes like programming, massive secure databases and algorithms were required to harness the power of the biological data.
+
+Today, bioinformatics is integral to the advancement of biomedical research, effective medicine, healthcare, and public health worldwide. Bioinformatics has the potential to revolutionize our core understanding of biological processes, with endless applications to improve quality of life.
+
+In many ways, we're living in a golden age of medicine. Data science methods, big data predictive analytics, and machine learning algorithms are enabling new breakthroughs in health prediction. Equipped with advanced tools, doctors and their medical teams are learning how to identify patterns and anomalies in data, detecting diseases much earlier than was previously possible. These include lung and breast cancer, autoimmune diseases, liver diseases, Zika virus, and more. In many cases, the earlier these diseases are identified, the faster they can be treated and the better the patient's chance of defeating the illness.
+
+Digital information streaming from innumerable sensors, instruments and simulations is outrunning our capacity to accumulate, organize and analyze it for making healthcare decisions. We need fundamental progress in biomedical informatics to exploit the full wealth of knowledge embedded in genomic, proteomic, genetic, epidemiological, and clinical data and gain a full return on our substantial investments in health information technology. In aggregate, this deluge of metagenomic and biological data -- commonly known as "big data" -- is far too large and expansive to process, analyze, share or store via traditional methods or software programs. Advanced computational tools like machine learning algorithms and secure storage of sensitive big data is required to fully realize the potential of this treasure trove of information.
+
+With significant advances in DNA and RNA sequencing, popularized by consumer DNA genetic testing, we're on the precipice of a new consumer healthcare experience. In the not too distant future, doctors will practice **precision medicine** , defined as the tailored treatment of each individual's disease based on the disease's molecular profile.
 
 Bioinformatics is an evolving discipline, and expert bioinformaticians now use complex software programs for retrieving, sorting out, analysing, predicting, and storing DNA and protein sequence data.
 
