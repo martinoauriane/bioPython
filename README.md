@@ -1,6 +1,6 @@
 ## Bioinformatics
 
-Bioinformatics is defined as the application of tools of computation and analysis to the capture and interpretation of biological data. It is an interdisciplinary field, which harnesses computer science, mathematics, physics, and biology.
+Bioinformatics is a recent scientific field that emerged in the 1990s at the interface between biology, computer science, mathematics and physics. It is defined as the application of tools of computation and analysis to the capture and interpretation of biological data.
 
 Bioinformatics is essential for management of data in modern biology and medicine. It's a pretty recent branch of biology that encompasses the use of algebraic, analytic, and computing approaches to the processing and interpretation of biological information.
 
@@ -38,6 +38,8 @@ Evolutionary biology is the study of the origin and descent of species, as well 
 
 ### Genome analysis for cancer understanding
 
+Permanent changes in DNA sequence called mutations can be inherited or acquired and can affect one or multiple genes. A genetic disease is a disease caused by an inherited change in an organism’s DNA sequence. Scientists now believe that most disorders have a genetic component.
+
 In healthcare, clinical bioinformaticians work within a wider team including clinical geneticists and laboratory scientists to help provide answers for patients diagnosed with rare disease or cancer.
 
 The main role of the clinical bioinformatician is to create and use computer programs and software tools to filter large quantities of genomic data – usually gathered through next-generation sequencing methods, such as whole genome sequencing (WGS) or whole exome sequencing. In doing so, bioinformaticians aim to find meaning in this overwhelming amount of information and provide clinically actionable solutions to help patients.
@@ -45,6 +47,10 @@ The main role of the clinical bioinformatician is to create and use computer pro
 Bioinformatics is essential for understanding cancer genomics and shaping future cancer therapies. Bioinformatics approaches can transform vast quantities of biological data into comprehensive models, providing insights into cancer and the genotype-phenotype relationships crucial for identifying cancer-driving alterations and therapeutic targets.
 
 ## Into DNA
+
+![DNA](DNA_cells.jpeg)
+
+Heredity is the transmission of genes and traits from one generation to the next.
 
 Genetic code refers to the instructions contained in a gene that tell a cell how to make a specific protein. Each gene’s code uses the four nucleotide bases of DNA: adenine (A), cytosine (C), guanine (G) and thymine (T) — in various ways to spell out three-letter “codons” that specify which amino acid is needed at each position within a protein.
 
