@@ -46,11 +46,15 @@ Bioinformatics is essential for understanding cancer genomics and shaping future
 
 ## Into DNA
 
+Genetic code refers to the instructions contained in a gene that tell a cell how to make a specific protein. Each gene’s code uses the four nucleotide bases of DNA: adenine (A), cytosine (C), guanine (G) and thymine (T) — in various ways to spell out three-letter “codons” that specify which amino acid is needed at each position within a protein.
+
 Deoxyribonucleic acid (abbreviated DNA) is the molecule that carries genetic information for the development and functioning of an organism. DNA is made of two linked strands that wind around each other to resemble a twisted ladder — a shape known as a double helix.
 
 We are all far more alike than we are different? In fact, the DNA from any two people is 99.9% identical. The differing 0.1% contains variations that influence our uniqueness, which when combined with our environmental and social contexts give us our abilities, our health, our behavior.
 
-### Amino Acis
+![DNA](DNA.jpeg).
+
+### Amino Acids
 
 Amino acis are the building blocks of proteins. The primary structure can be easily determined from the sequence of codons on the DNA gene that codes for it.
 There are 20 different amino acids. A protein consists of one or more chains of amino acids. Some amino acids can be synthesized in the body, but others (essential amino acids) cannot and must be obtained from a person’s diet.
