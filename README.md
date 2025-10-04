@@ -15,24 +15,24 @@ Because of the diverse nature of emerging data, no single comprehensive database
 
 Bioinformatics is an evolving discipline, and expert bioinformaticians now use complex software programs for retrieving, sorting out, analysing, predicting, and storing DNA and protein sequence data.
 
-#### Open-source
+### Open-source
 
 Many free and open-source software tools have existed and continued to grow since the 1980s.The combination of a continued need for new algorithms for the analysis of emerging types of biological readouts, the potential for innovative in silico experiments, and freely available open code bases have created opportunities for research groups to contribute to both bioinformatics regardless of funding.
 
 Open-source bioinformatics software includes Bioconductor, BioPerl, Biopython, BioJava, BioJS, BioRuby, Bioclipse, EMBOSS, .NET Bio, Orange with its bioinformatics add-on, Apache Taverna, UGENE and GenoCAD.
 
-#### A bit of history
+### A bit of history
 
 Since the bacteriophage Phage Φ-X174 was sequenced in 1977,[24] the DNA sequences of thousands of organisms have been decoded and stored in databases.
 With the growing amount of data, it long ago became impractical to analyze DNA sequences manually.
 
-#### Sequences storage
+### Sequences storage
 
 Databases are essential for bioinformatics research and applications. Databases exist for many different information types, including DNA and protein sequences, molecular structures, phenotypes and biodiversity. Databases can contain both empirical data (obtained directly from experiments) and predicted data (obtained from analysis of existing data). They may be specific to a particular organism, pathway or molecule of interest. Alternatively, they can incorporate data compiled from multiple other databases.
 
 Before sequences can be analyzed, they are obtained from a data storage bank, such as GenBank.
 
-#### Evolutionary biology
+### Evolutionary biology
 
 Evolutionary biology is the study of the origin and descent of species, as well as their change over time. Informatics has assisted evolutionary biologists by enabling researchers to trace the evolution of a large number of organisms by measuring changes in their DNA, rather than through physical taxonomy or physiological observations alone,
 
