@@ -52,7 +52,7 @@ Deoxyribonucleic acid (abbreviated DNA) is the molecule that carries genetic inf
 
 We are all far more alike than we are different? In fact, the DNA from any two people is 99.9% identical. The differing 0.1% contains variations that influence our uniqueness, which when combined with our environmental and social contexts give us our abilities, our health, our behavior.
 
-![DNA](DNA.jpeg).
+![DNA](DNA.jpeg)
 
 ### Amino Acids
 
